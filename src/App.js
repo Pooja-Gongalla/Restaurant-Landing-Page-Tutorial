@@ -9,7 +9,8 @@ import Footer from "./Components/Footer";
 function App() {
   return (
     <div className="App">
-      <Home />
+    <Navbar/>  
+    <Home />
       <About />
       <Work />
       <Testimonial />
